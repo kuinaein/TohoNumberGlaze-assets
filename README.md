@@ -20,6 +20,8 @@
 
 ## その他
 
+- [タイトルロゴ](./title-logo.png)に、SIMO 様の「青柳隷書しも」フォントを利用しています。
+  - 配布元： [武蔵システム](https://opentype.jp/)
 - [背景](./res/bg-mari-sensu.png)は、パブリックドメインで提供されています。
   - 配布元： [パブリックドメイン Q](https://publicdomainq.net/temari-balls-hand-fans-0001396/)
 - [スペルゲージ](./res/spell-gauge-full.png)は、Scott 様が CC0 ライセンスで提供しています。
