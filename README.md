@@ -20,5 +20,7 @@
 
 ## その他
 
+- [スペルゲージ](./res/spell-gauge-full.png)は、Scott 様が CC0 ライセンスで提供しています。
+  - 配布元： [OpenGameArt.org](https://opengameart.org/content/health-bar-kit)
 - [雪のパーティクル](./res/snowflake.png)は、mkwong98 様が CC0 ライセンスで提供しています。
   - 配布元： [OpenGameArt.org](https://opengameart.org/content/snow-flake)
