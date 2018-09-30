@@ -20,7 +20,11 @@
 
 ## その他
 
+- [背景](./res/bg-mari-sensu.png)は、パブリックドメインで提供されています。
+  - 配布元： [パブリックドメイン Q](https://publicdomainq.net/temari-balls-hand-fans-0001396/)
 - [スペルゲージ](./res/spell-gauge-full.png)は、Scott 様が CC0 ライセンスで提供しています。
   - 配布元： [OpenGameArt.org](https://opengameart.org/content/health-bar-kit)
+- [制限時間の緑枠](./res/window_green.png)は、Daniel 様が CC0 ライセンスで提供しています。
+  - 配布元： [OpenGameArt.org](https://opengameart.org/content/window-frame)
 - [雪のパーティクル](./res/snowflake.png)は、mkwong98 様が CC0 ライセンスで提供しています。
   - 配布元： [OpenGameArt.org](https://opengameart.org/content/snow-flake)
