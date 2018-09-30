@@ -15,3 +15,5 @@
   - [上海アリス幻樂団](http://www16.big.or.jp/~zun/)
 - [erl ディレクトリ](./res/erl/)の SD イラストは、エルル様からお借りしています。
   - 配布元： [えるるのだいあり](http://erl.hatenablog.jp)
+- [チルノのカットイン](./res/cutin-chillno.png)は二ノ瀬泰徳様からお借りしています。
+  - 配布元： [ニコニ・コモンズ](http://commons.nicovideo.jp/material/nc157325)

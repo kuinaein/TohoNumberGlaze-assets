@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "vpu0y+zZka5XrzBoJhQgAiJJkQc", "spine": "3.6.53", "width": 713.97, "height": 772.34, "images": "" },
+"skeleton": { "hash": "kArhHOhGhLsjdrdUbH/R2Lq7SF4", "spine": "3.6.53", "width": 713.97, "height": 772.34, "images": "" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "left-wing", "parent": "root", "length": 199.04, "rotation": -24.92, "x": 92.54, "y": -140.73 },
@@ -66,15 +66,17 @@
 			"ribon": {
 				"rotate": [
 					{ "time": 0, "angle": 0 },
-					{ "time": 2.1667, "angle": -2.29 },
-					{ "time": 2.3333, "angle": 0 }
+					{ "time": 1, "angle": -2.29 },
+					{ "time": 1.1667, "angle": 0 }
 				]
 			},
 			"root": {
 				"translate": [
-					{ "time": 0, "x": 0, "y": -100 },
-					{ "time": 2, "x": 0, "y": 100 },
-					{ "time": 4, "x": 0, "y": -100 }
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": 100 },
+					{ "time": 2, "x": 0, "y": 0 },
+					{ "time": 3, "x": 0, "y": -100 },
+					{ "time": 4, "x": 0, "y": 0 }
 				]
 			}
 		}
