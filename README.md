@@ -17,3 +17,8 @@
   - 配布元： [えるるのだいあり](http://erl.hatenablog.jp)
 - [チルノのカットイン](./res/cutin-chillno.png)は二ノ瀬泰徳様からお借りしています。
   - 配布元： [ニコニ・コモンズ](http://commons.nicovideo.jp/material/nc157325)
+
+## その他
+
+- [雪のパーティクル](./res/snowflake.png)は、mkwong98 様が CC0 ライセンスで提供しています。
+  - 配布元： [OpenGameArt.org](https://opengameart.org/content/snow-flake)
